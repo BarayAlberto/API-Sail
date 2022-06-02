@@ -9,6 +9,10 @@ module.exports = {
 
   attributes: {
 
+    nombre: {type: 'string', required: true},
+    precio: {type: 'number', required: true},
+    proveedor: {type: 'string', required: true},
+
     //  ╔═╗╦═╗╦╔╦╗╦╔╦╗╦╦  ╦╔═╗╔═╗
     //  ╠═╝╠╦╝║║║║║ ║ ║╚╗╔╝║╣ ╚═╗
     //  ╩  ╩╚═╩╩ ╩╩ ╩ ╩ ╚╝ ╚═╝╚═╝
