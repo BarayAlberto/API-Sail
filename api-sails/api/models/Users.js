@@ -11,7 +11,7 @@ module.exports = {
 
     nombre: {type: 'string', required: true},
     apellidos: {type: 'string', AllowNull: true},
-    edad: {type: 'numer', required: true},
+    edad: {type: 'number', required: true},
 
   },
 

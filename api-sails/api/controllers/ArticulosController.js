@@ -7,10 +7,10 @@
 
 module.exports = {
   
-    getAllArticulos: async function(req, res){
+    /*getAllArticulos: async function(req, res){
         var misArticulos = await User.find();
         res.ok(misArticulos);
-    }
+    }*/
 
 };
 
